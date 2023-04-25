@@ -1,6 +1,6 @@
 ### Hi my friends! 👋
 
-If you have not known me yet, please check it out my profile describe here(https://github.com/andresalerno).
+If you have not known me yet, please check it out my profile describe [here](https://github.com/andresalerno).
 
 After a long period of time working with R Programming and their packages (mainly in the ML features), in this repo I've decided studying the modeling conceptuals using Python.
 
