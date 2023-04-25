@@ -1,3 +1,8 @@
+[![Made with Python](https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage")
+[![dependency - numpy==1.24.3](https://img.shields.io/badge/dependency-numpy==1.24.3-blue)](https://pypi.org/project/numpy==1.24.3)
+[![dependency - scikit-learn==1.2.2](https://img.shields.io/badge/dependency-scikit--learn==1.2.2-blue)](https://pypi.org/project/scikit-learn==1.2.2)
+
+
 ### Hi my friends! 👋
 
 If you have not known me yet, please check it out my profile describe [here](https://github.com/andresalerno).
