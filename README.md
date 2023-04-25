@@ -5,11 +5,11 @@
 
 ### Hi my friends! 👋
 
-If you have not known me yet, please check it out my profile describe [here](https://github.com/andresalerno).
+If you have not known me yet, please check it out my profile describe [here](https://github.com/andresalerno "My profile").
 
 After a long period of time working with R Programming and their packages (mainly in the ML features), in this repo I've decided studying the modeling conceptuals using Python.
 
-It is importante important to mention that this kick off was able using the amazing knowledge from [Análise Macro](https://analisemacro.com.br/).
+It is importante important to mention that this kick off was able using the amazing knowledge from [Análise Macro](https://analisemacro.com.br/ "Go to Análise Macro homepage").
 
 So, let's do it some 🤖 Machine Learning works!
 
